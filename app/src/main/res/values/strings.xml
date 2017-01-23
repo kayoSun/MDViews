@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MDViews</string>
+    <string name="behavior_to_top">com.kayo.mdviews.behavior.TopShowBehavior</string>
+
+</resources>
